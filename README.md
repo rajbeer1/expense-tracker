@@ -12,7 +12,7 @@ Viren Walia
 <br>
 
 
-<h1>SavvySpend</h1>
+<h1>💲SavvySpend</h1>
  <p> SavvySpend is a web application built using React.js that helps users track their expenses. It provides an intuitive interface for users to input their expenses, categorize them, and visualize their spending habits through interactive charts. </p>
 
 
