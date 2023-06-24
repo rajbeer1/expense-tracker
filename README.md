@@ -1,5 +1,7 @@
 # Fastest Coder First Hackathon
 
+Figma prototype link: https://www.figma.com/file/gv1KGCHrne3whhJDDX0JKV/Expense_Tracker?type=design&node-id=3%3A95&mode=design&t=5x9Lz46sJMfGawcc-1
+
 ## Team members
 Divyam Malik
 <br>
