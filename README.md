@@ -58,7 +58,7 @@ Viren Walia
 </ol>
 <h2>Contributing</h2>
 <p>
-    Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request. Please make sure to follow the guidelines outlined in the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> file.
+    Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
 </p>
 <h2>License</h2>
 <p>
