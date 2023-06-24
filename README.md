@@ -1,5 +1,4 @@
 # Fastest Coder First Hackathon
-<br>
 
 ## Team members
 Divyam Malik
@@ -11,9 +10,11 @@ Rajbeer Singh
 Viren Walia
 <br>
 
-
+<h2>Screenshot</h2>
+<img src="money.png">
 <h1>💲SavvySpend</h1>
  <p> SavvySpend is a web application built using React.js that helps users track their expenses. It provides an intuitive interface for users to input their expenses, categorize them, and visualize their spending habits through interactive charts. </p>
+
 
 
 <h2>Features</h2>
