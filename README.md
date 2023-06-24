@@ -4,7 +4,7 @@
 ## Team members
 Divyam Malik
 <br>
-AKshavya Aggarwal
+Akshavya Aggarwal
 <br>
 Rajbeer Singh
 <br>
